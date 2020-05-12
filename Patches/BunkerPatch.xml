@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Ra2_Bunker"]/graphicData</xpath>
+        <value>
+    			<graphicData>
+            <texPath>NecerosBunker</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>(3,3)</drawSize>
+            <damageData>
+              <rect>(0.2,0.2,0.6,0.6)</rect>
+            </damageData>
+          </graphicData>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="Ra2_Bunker"]/uiIconPath</xpath>
+        <value>
+          <uiIconPath>NecerosBunker</uiIconPath>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+
+</Patch>

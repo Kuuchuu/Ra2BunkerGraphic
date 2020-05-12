@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Ra2 Bunker Graphic</name>
+		<author>Neceros</author>
+		<supportedVersions>
+      <li>1.1</li>
+    </supportedVersions>
+    <modDependencies>
+      <li>
+        <packageId>scarjit.ra2bunker</packageId>
+        <displayName>Ra2Bunker[1.1]</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/2009500243</steamWorkshopUrl>
+      </li>
+    </modDependencies>
+    <loadAfter>
+      <li>scarjit.ra2bunker</li>
+    </loadAfter>
+    <packageId>neceros.ra2bunkergraphic</packageId>
+		<description>Changes the graphic for Ra2Bunker.</description>
+</ModMetaData>
