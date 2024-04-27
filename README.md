@@ -1,6 +1,9 @@
 # Ra2BunkerGraphic
-changes the graphic of a mod
 
+Ra2Bunker texture replacer.  
+[Original](https://github.com/Neceros/Ra2BunkerGraphic) by Neceros
+
+--------------------
 MIT License
 
 Copyright (c) 2020 Billy Barnes
